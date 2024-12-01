@@ -5685,7 +5685,7 @@ textPath {
     border-width: 4px;
     border-style: solid;
     border-color: transparent;
-    border-color: #a03fff transparent transparent transparent;
+    border-color: #0af321 transparent transparent transparent;
 }
 
 .tg-preloader>.tg-loading>div:nth-child(1) {
@@ -7654,7 +7654,7 @@ content: var(--tw-content);
 
 .hover\:via-\[\#a03fff\]:hover {
     --tw-gradient-to: rgb(209 69 248 / 0) var(--tw-gradient-to-position);
-    --tw-gradient-stops: var(--tw-gradient-from), #a03fff var(--tw-gradient-via-position), var(--tw-gradient-to);
+    --tw-gradient-stops: var(--tw-gradient-from), #3fff65 var(--tw-gradient-via-position), var(--tw-gradient-to);
 }
 
 .hover\:to-\[\#10181f\]:hover {
@@ -10174,7 +10174,7 @@ content: var(--tw-content);
     }
     .lg\:before\:shadow-\[inset_0px_3px_7px_0px_\#a03fff\]::before {
         content: var(--tw-content);
-        --tw-shadow: inset 0px 3px 7px 0px #a03fff;
+        --tw-shadow: inset 0px 3px 7px 0px #3fff55;
         --tw-shadow-colored: inset 0px 3px 7px 0px var(--tw-shadow-color);
         box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
     }
