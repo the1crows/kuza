@@ -3466,7 +3466,7 @@ input[type="color"] {
 
 .via-\[\#e3b17d\] {
     --tw-gradient-to: rgb(227 177 125 / 0) var(--tw-gradient-to-position);
-    --tw-gradient-stops: var(--tw-gradient-from), #e3b17d var(--tw-gradient-via-position), var(--tw-gradient-to);
+    --tw-gradient-stops: var(--tw-gradient-from), #a6e37d var(--tw-gradient-via-position), var(--tw-gradient-to);
 }
 
 .via-\[transparent_100\%\] {
